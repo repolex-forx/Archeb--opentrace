@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/Archeb/opentrace/commit/1f4dc8397780e084e1be9e33eb1adb742d800aa6",
       "git:hexsha": "1f4dc8397780e084e1be9e33eb1adb742d800aa6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-09T23:07:35.841552+00:00"
     },
     {
       "@id": "https://repolex.ai/r/Archeb/opentrace/commit/f29e749c2b7688788264fce81fc80ec9aa55afbe",
